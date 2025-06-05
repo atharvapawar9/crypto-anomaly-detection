@@ -15,7 +15,7 @@ def load_data():
         host="localhost",
         database="crypto_data",
         user="crypto_user",
-        password="369"
+        password="XXX"
     )
     cursor = conn.cursor()
     cursor.execute("""
