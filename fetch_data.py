@@ -7,9 +7,9 @@ import time
 conn_info = {
     'host': 'localhost',
     'port': 5432,
-    'user': 'crypto_user',      # 🔁 change this
-    'password': '369',  # 🔁 change this
-    'dbname': 'crypto_data'       # must already exist
+    'user': 'crypto_user',      
+    'password': 'XXX',  
+    'dbname': 'crypto_data'     
 }
 
 def fetch_data():
