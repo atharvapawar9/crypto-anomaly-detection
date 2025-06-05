@@ -9,7 +9,7 @@ def get_data():
         host="localhost",
         database="crypto_data",
         user="crypto_user",
-        password="369"
+        password="XXX"
     )
     query = """
     SELECT timestamp, coin, price FROM crypto_prices
